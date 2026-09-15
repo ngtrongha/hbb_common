@@ -2872,6 +2872,8 @@ pub mod keys {
     pub const OPTION_ALLOW_NUMERNIC_ONE_TIME_PASSWORD: &str = "allow-numeric-one-time-password";
     pub const OPTION_DIRECT_SERVER: &str = "direct-server";
     pub const OPTION_ALLOW_WEBSOCKET: &str = "allow-websocket";
+    pub const OPTION_ALLOW_AUTO_UPDATE: &str = "allow-auto-update";
+    pub const OPTION_ALLOW_REMOTE_CONFIG_MODIFICATION: &str = "allow-remote-config-modification";
     pub const OPTION_TRACKPAD_SPEED: &str = "trackpad-speed";
     pub const OPTION_REGISTER_DEVICE: &str = "register-device";
     pub const OPTION_RELAY_SERVER: &str = "relay-server";
